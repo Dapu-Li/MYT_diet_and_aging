@@ -96,7 +96,7 @@ Each script is self-contained and should be run sequentially within its folder (
 
 If you use this code, please cite:
 
-> Ma Y, et al. A Machine Learning-Derived Dietary Pattern for Aging. *[Journal]*, 2025.
+> Yating Miao, Zhirong Li, et al. A Machine Learning-Derived Dietary Pattern for Aging. *[Journal]*, 2025.
 
 ---
 
